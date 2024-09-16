@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trash Free DC</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Trash Free DC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Selling Land in 2024</title>
+      <link>http://localhost:1313/post/selling-land-in-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/selling-land-in-2024/</guid>
+      
+        <description>If you&amp;rsquo;re looking to sell land in 2024, please contact me via the email icon above or contact page on-site; I&amp;rsquo;ll answer within 24 hours and we&amp;rsquo;ll discuss terms that work for you.</description>
+      
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/contact/</guid>
+      
+        <description>Contact Page</description>
+      
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      
+        <description>Bain Property Group. Sell your land online fast.</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/legal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/legal/</guid>
+      
+        <description>Legal Disclosure Information in accordance with the applicable law
+Bain Property Group, LLC</description>
+      
+    </item>
+    
+  </channel>
+</rss>
