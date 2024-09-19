@@ -17,3 +17,8 @@ If you're remotely interested in selling your land, I encourage you to reach out
 Looking forward to hearing from you!
 
 *P.S. BPG is not associated with any realtors. We purchase all properties outright as our own investment.*
+
+---
+Bain Property Group, LLC\
+9215 Mentor Ave #1097\
+Mentor, OH 44060
