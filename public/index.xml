@@ -6,7 +6,40 @@
     <description>Recent content on Trash Free DC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/contact/</guid>
+      
+        <description>Contact Page</description>
+      
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>http://localhost:1313/privacy-policy/</link>
+      <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/privacy-policy/</guid>
+      
+        <description>Messaging Privacy Policy This Messaging Program Privacy Policy explains how Bain Property Group, LLC collects and uses information about you in relation to its text message marketing program (the “Messaging Service”).</description>
+      
+    </item>
+    
+    <item>
+      <title>Terms and Conditions</title>
+      <link>http://localhost:1313/terms-and-conditions/</link>
+      <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/terms-and-conditions/</guid>
+      
+        <description>Bain Property Group, LLC Messaging Terms &amp;amp; Conditions You agree to receive recurring automated promotional and personalized marketing text (e.</description>
+      
+    </item>
+    
     <item>
       <title>Selling Land in 2024</title>
       <link>http://localhost:1313/post/selling-land-in-2024/</link>
@@ -19,17 +52,6 @@
     </item>
     
     <item>
-      <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/contact/</guid>
-      
-        <description>Contact Page</description>
-      
-    </item>
-    
-    <item>
       <title>About</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
@@ -37,18 +59,6 @@
       <guid>http://localhost:1313/about/</guid>
       
         <description>Bain Property Group. Sell your land online fast.</description>
-      
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://localhost:1313/legal/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/legal/</guid>
-      
-        <description>Legal Disclosure Information in accordance with the applicable law
-Bain Property Group, LLC</description>
       
     </item>
     

@@ -24,7 +24,13 @@
   url = "/contact/"
 
   [[footer]]
-  name = "legal"
+  name = "privacy policy"
   weight = 1
-  identifier = "legal"
-  url = "/legal/"
+  identifier = "privacy policy"
+  url = "/privacy-policy/"
+
+  [[footer]]
+  name = "terms & conditions"
+  weight = 2
+  identifier = "terms and conditions"
+  url = "/terms-and-conditions/"
