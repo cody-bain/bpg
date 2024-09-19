@@ -2,8 +2,12 @@
   <form class="form-style" method="POST" action="{{ .Site.Params.contactFormAction }}" data-toggle="validator">
     <ul>
       <li>
-        <label for="username">{{ i18n "name" }}</label>
-        <input class="field-style field-full" type="text" name="username" id="username" placeholder="{{ i18n "name" }}" required>
+        <label for="firstname">First Name</label>
+        <input class="field-style field-full" type="text" name="firstname" id="firstname" placeholder="First Name" required>
+      </li>
+      <li>
+        <label for="lastname">Last Name</label>
+        <input class="field-style field-full" type="text" name="lastname" id="lastname" placeholder="Last Name" required>
       </li>
       <li>
         <label for="email">{{ i18n "email" }}</label>
@@ -26,8 +30,9 @@
       </li>
       <li>
         <p class="opt-in-disclaimer" style="font-size: 0.85em; color: #888;">
-          By submitting this form, you agree to receive messages related to your inquiry via 10DLC-compliant messaging.
-          Message and data rates may apply. Reply STOP to opt out.
+          By submitting the contact form and signing up for texts, you consent to receive marketing text messages from Bain Property Group, LLC
+          at the number provided. Consent is not a condition of purchase. Message frequency varies. Message and data rates may apply. You can unsubscribe at
+          any time by replying STOP. Text HELP to get help. Please read our <a href="/privacy-policy">Privacy Policy</a> for more details. 
         </p>
       </li>
       <li>
