@@ -1,0 +1,10 @@
+{{ define "main" }}
+  <div class="post">
+    <div class="post__content">
+      {{ with .Site.GetPage "about" }}
+        <h1>{{ .Title }}</h1> <!-- This adds the title "About" -->
+        {{ .Content }}
+      {{ end }}
+    </div>
+  </div>
+{{ end }}

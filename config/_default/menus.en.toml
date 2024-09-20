@@ -6,20 +6,13 @@
 
   [[main]]
   name = "Posts"
-  weight = 200
+  weight = 300
   identifier = "posts"
   url = "/post/"
 
   [[main]]
-  name = "About"
-  weight = 300
-  identifier = "about"
-  url = "/about/"
-
-
-  [[main]]
   name = "Contact"
-  weight = 600
+  weight = 200
   identifier = "contact"
   url = "/contact/"
 

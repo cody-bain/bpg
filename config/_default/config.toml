@@ -22,6 +22,12 @@ pygmentsCodefencesGuessSyntax = true
 # Localized dates requires Hugo version 0.87.0
 localizedDates = false
 
+# Set homepage to About
+[[menu.main]]
+name = "Home"
+url = "/about/"
+weight = 1
+
 [markup]
     [markup.goldmark]
         [markup.goldmark.renderer]
