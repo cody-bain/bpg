@@ -16,6 +16,7 @@ If you are experiencing any problems, please email the address of the brand.
 These Messaging Terms & Conditions are a part of and subject to our Terms of Use and our Privacy Policy (collectively with these Messaging Terms & Conditions, the “Terms Documents”). By participating in our text message program, you agree to our Terms Documents. To the extent that a conflict exists between these Messaging Terms & Conditions and our Terms of Use, these Messaging Terms & Conditions will control.
 ## Contact
 This messaging program is a service of Bain Property Group, LLC, located at:\
+Bain Property Group, LLC\
 9215 Mentor Ave #1097\
 Mentor, OH 44060.
 
