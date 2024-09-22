@@ -17,7 +17,7 @@ const switchTheme = () => {
   const currThemeStyle = getStoredThemeStyle();
   switch (currThemeStyle) {
     case 'light':
-      setThemeStyle('light'); // change to 'dark' if you want enabled. I removed dark mode.
+      setThemeStyle('dark');
       break;
     case 'dark':
       setThemeStyle('light');
@@ -39,14 +39,12 @@ document.addEventListener(
 
 window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', switchTheme, false);
 
-// Uncomment if you want to get current user theme style.
-
-//const currThemeStyle = getStoredThemeStyle();
-//if (currThemeStyle) {
-//  setThemeStyle(currThemeStyle);
-//} else {
-//  const userPrefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
-//  if (userPrefersDark) {
-//    setThemeStyle('dark');
-//  }
-//}
+const currThemeStyle = getStoredThemeStyle();
+if (currThemeStyle) {
+  setThemeStyle(currThemeStyle);
+} else {
+  const userPrefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+  if (userPrefersDark) {
+    setThemeStyle('dark');
+  }
+}
