@@ -25,8 +25,12 @@ We retain your information for as long as you participate in the Messaging Servi
 Consent to receive automated marketing text messages is not a condition of any purchase. You can opt-out of receiving further commercial text messages via the Messaging Service by responding to any of our text messages with any of the following replies: STOP, END, CANCEL, UNSUBSCRIBE, or QUIT.
 ## Text Message Campaign Data Selling
 If you sign up to receive text messages from us, we will not sell Personal Information collected specifically in connection with such service, including your mobile telephone number or consent data, to any third party, and we will not share such Personal Information with any third party for cross-context behavioral advertising or targeted advertising purposes.
+<!---
+The below section is from OpenPhone.
+-->
+All the above categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties.
 ## CONTACT US
-If you have any questions, concerns, or requests related to this Privacy Policy, please contact us at cody@Bain Property Group, LLC.com
+If you have any questions, concerns, or requests related to this Privacy Policy, please contact us at cody@bainpropertygroup.com
 
 Last Updated: 9/18/2024
 
