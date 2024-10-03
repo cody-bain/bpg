@@ -17,7 +17,7 @@ const switchTheme = () => {
   const currThemeStyle = getStoredThemeStyle();
   switch (currThemeStyle) {
     case 'light':
-      setThemeStyle('dark');
+      setThemeStyle('light'); // change to 'dark' if you want to switch
       break;
     case 'dark':
       setThemeStyle('light');
@@ -39,12 +39,14 @@ document.addEventListener(
 
 window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', switchTheme, false);
 
-const currThemeStyle = getStoredThemeStyle();
-if (currThemeStyle) {
-  setThemeStyle(currThemeStyle);
-} else {
-  const userPrefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
-  if (userPrefersDark) {
-    setThemeStyle('dark');
-  }
-}
+//Uncomment if you want system to identify stored theme
+
+//const currThemeStyle = getStoredThemeStyle();
+//if (currThemeStyle) {
+//  setThemeStyle(currThemeStyle);
+//} else {
+//  const userPrefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+//  if (userPrefersDark) {
+//    setThemeStyle('dark');
+//  }
+//}
