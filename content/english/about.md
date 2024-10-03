@@ -23,7 +23,7 @@ Once we decide on terms, my team will help facilitate a seamless transactions. I
 If you're remotely interested in selling your land, I encourage you to reach out:
 
 * [Contact Form](/contact.md)
-* Text: (440) 266-4844
+* Text: (440) 577-6102
 * Email: cody@bainpropertygroup.com
 
 I'll be in touch within **24 hours** and we can discuss terms and a price that works for you.
