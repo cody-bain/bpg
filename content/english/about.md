@@ -5,32 +5,32 @@ date = "2024-09-20"
 author = "Cody"
 +++
 ## About
-My name is Cody Bain, I'm a veteran, outdoorsman, dog-dad, and avid CrossFitter. Growing up on a few acres in Western PA, land has always made sense to me. As kids, we built forts, conquered and explored, caught bugs, hid from our parents, got into trouble, discovered who we were, and made core memories on that property.
+My name is Cody Bain—veteran, outdoorsman, dog enthusiast, and dedicated CrossFitter. Growing up on several acres in Western Pennsylvania, I've always felt a deep connection to land. As kids, we built forts, explored, and created lasting memories on that property.
 
-I'll always have an emotional attachment to the land I grew up on and I'm certain you share a similar story. 
+The attachment to the land where I grew up will always hold meaning for me, and I believe many share that sentiment.
 
-As such, I understand that it's no easy decision to sell your property. But with Bain Property Group (BPG), your land is in good hands. We're a **veteran-owned** and **family operated** small business that takes pride in honoring American soil. 🇺🇸
+I understand that selling your property can be a difficult decision. At Bain Property Group (BPG), your land is treated with the respect it deserves. We're a veteran-owned, family-operated business that prides itself on honoring American soil. 🇺🇸
 
 ## Background
-Land is my passion. I founded BPG in 2019 while active-duty. Since then, my company has purchased properties all over the continental US. In those 5 years, we've completed **100+ transactions** with people just like you.
+Land is more than a business for me—it's my passion. I founded BPG in 2019 while on active duty, and since then, we’ve been fortunate to purchase properties across the continental U.S. In the past five years, we’ve successfully completed over 100 transactions with landowners just like you.
 
 ## Our Process
-Every transaction is based on **trust**. I encourage you to text, call, or email me so we can get to know one another and decide if doing business together is in our best interest. 
+Every transaction we make is built on trust. I encourage you to reach out via text, call, or email so we can discuss your goals and see if working together is a good fit.
 
-Once we decide on terms, my team will help facilitate a seamless transactions. I can typically get cash in your hands within **10 business days**. Additionally, I will pay for all associated closing costs. The sale price we agree upon, is the amount you will receive. No hidden surprises or fees.
+Once we agree on terms, my team handles everything to ensure a smooth transaction. In most cases, I can get cash in your hands within 10 business days. Plus, I cover all closing costs—what we agree on is exactly what you'll receive. No hidden fees or surprises.
 
 ## Get in Touch
-If you're remotely interested in selling your land, I encourage you to reach out:
+If you’re considering selling your land, I’d love to hear from you:
 
 * [Contact Form](/contact.md)
 * Text: (440) 577-6102
 * Email: cody@bainpropertygroup.com
 
-I'll be in touch within **24 hours** and we can discuss terms and a price that works for you.
+I’ll respond within 24 hours to discuss the terms and find a price that works for both of us.
 
-Looking forward to hearing from you!
+I look forward to connecting with you!
 
-*P.S. Bain Property Group, LLC is *not* a realtor. We purchase all properties outright as our own investment.*
+P.S. Bain Property Group, LLC is not a realtor. We purchase properties directly as investments.
 
 ---
 Bain Property Group, LLC\
